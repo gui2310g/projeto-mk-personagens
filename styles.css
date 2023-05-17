@@ -157,6 +157,6 @@ main .descricao{
 
   @media screen and (max-width: 568px)  {
     header p {
-        font-size: 0.57em;
+        font-size: 0.47em;
     }
   }
